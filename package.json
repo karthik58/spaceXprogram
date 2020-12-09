@@ -28,7 +28,9 @@
     "eject": "react-scripts eject",
     "build-ssr": "npm install && npm run build",
     "start-ssr": "node index.js",
-    "heroku-postbuild": "npm install && npm run build"
+    "heroku-postbuild": "npm install && npm run build",
+    "lint": "eslint --ext .jsx,.js pages/",
+    "lint:fix": "eslint --ext .jsx,.js pages/ --fix"
   },
   "engines": {
     "node": "12.x"
@@ -50,5 +52,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "eslint": "^7.15.0"
   }
 }
