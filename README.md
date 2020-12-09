@@ -8,10 +8,9 @@ It is designed to be a singe page application, for which following libraries are
 
 **Using Lighthouse in Chrome DevTools**
 
-![lighthouse score](https://imgur.com/WNlf1NA) 
-![lighthouse score](https://imgur.com/JymFUFg)
+![lighthouse score](https://i.imgur.com/JymFUFg.png)
 
-
+![lighthouse score](https://i.imgur.com/WNlf1NA.png)
 
 ## Available Scripts
 
