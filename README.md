@@ -11,4 +11,3 @@ It is designed to be a singe page application, for which following libraries are
 ![lighthouse score](https://i.imgur.com/JymFUFg.png)
 
 ![lighthouse score](https://i.imgur.com/WNlf1NA.png)
-
