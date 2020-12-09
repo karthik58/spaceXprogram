@@ -6,6 +6,13 @@ It is designed to be a singe page application, for which following libraries are
 - redux
 - react-router
 
+**Using Lighthouse in Chrome DevTools**
+
+![lighthouse score](https://imgur.com/WNlf1NA) 
+![lighthouse score](https://imgur.com/JymFUFg)
+
+
+
 ## Available Scripts
 
 To run unit tests, you can use:
